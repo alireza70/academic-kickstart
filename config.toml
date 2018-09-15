@@ -69,8 +69,8 @@ enableGitInfo = false
   email = "arezaei@cs.washington.edu"
   address = "CSE 618, The Paul G. Allen Center for Computer Science & Engineering, Seattle, WA 98195"
   office_hours = ""
-  phone = "206 765 9178"
-  skype = "alireza.rezaei1370"
+  #phone = "206 765 9178"
+  #skype = "alireza.rezaei1370"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -275,10 +275,10 @@ enableGitInfo = false
 #  url = "#projects"
 #  weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
