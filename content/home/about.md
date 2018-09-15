@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Spectral Graph Theory",
     "Approximation Algorithms",
-    "Markov Chains"
+    "Markov Chains",
 	"Theoretical Machine Learning"
   ]
 
