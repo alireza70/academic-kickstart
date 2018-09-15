@@ -1,6 +1,6 @@
 +++
 title = "{0,2}-Degree free spanning forests in graphs"
-date = 2015-09-01T00:00:00
+#date = 2015-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Discrete Mathematics."
-publication_short = "Journal of Discrete Mathematics"
+publication_short = "Journal of Discrete Mathematics, Volume 338, July 2015"
 
 # Abstract and optional shortened version.
 abstract = ""

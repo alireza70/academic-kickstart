@@ -1,6 +1,6 @@
 +++
 title = "Approximation Algorithms for Finding Maximum Induced Expanders"
-date = 2017-09-01T00:00:00
+#date = 2017-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "SODA."
-publication_short = "SODA"
+publication_short = "SODA 2017"
 
 # Abstract and optional shortened version.
 abstract = ""
