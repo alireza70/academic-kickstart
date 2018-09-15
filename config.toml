@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mailto:arezaei@cs.washington.edu"
+  email = "arezaei@cs.washington.edu"
   address = "CSE 618, The Paul G. Allen Center for Computer Science & Engineering, Seattle, WA 98195"
   office_hours = ""
   #phone = "206 765 9178"
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "arezaei@cs.washington.edu"
+    link = "mailto:arezaei@cs.washington.edu"
 
   [[params.social]]
     icon = "twitter"
