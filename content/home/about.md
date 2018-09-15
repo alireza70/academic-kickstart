@@ -36,5 +36,5 @@ weight = 5
 
 # Biography
 
-I am a PhD student in the Allen School of Computer Science and Engineering at the University of Washington, where I am very fortunate to be advised by Shayan Oveis Gharan.
+I am a PhD student in the Allen School of Computer Science and Engineering at the University of Washington, where I am very fortunate to be advised by <a href="https://homes.cs.washington.edu/~shayan/">Shayan Oveis Gharan</a>.
 Prior to joining the University of Washington, I earned BS degrees in Mathematics and Computer Engineering at Sharif University of Technology, in Iran. Please find my updated CV <a href="/files/cv.pdf"> here </a>.
