@@ -4,7 +4,7 @@ title = "{0,2}-Degree free spanning forests in graphs"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["N. Anari", "S. Oveis Gharan", "A. Rezaei"]
+authors = [S. Akbari, K. Ozeki, A. Rezaei, R. Rotabi, S. Sabour]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Journal of Discrete Mathematics."
-publication_short = "Journal of Discrete Mathematics, Volume 338, July 2015"
+publication_short = "Journal of Discrete Mathematics, Volume 338"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1807.11648"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

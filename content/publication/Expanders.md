@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "SODA."
-publication_short = "SODA 2017"
+publication_short = "SODA"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1807.11648"
+url_pdf = "https://arxiv.org/abs/1511.02786"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
