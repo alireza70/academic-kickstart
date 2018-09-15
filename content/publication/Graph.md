@@ -4,7 +4,7 @@ title = "{0,2}-Degree free spanning forests in graphs"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [S. Akbari, K. Ozeki, A. Rezaei, R. Rotabi, S. Sabour]
+authors = ["S. Akbari", "K. Ozeki", "A. Rezaei", "R. Rotabi", "S. Sabour"]
 
 # Publication type.
 # Legend:
