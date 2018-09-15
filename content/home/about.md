@@ -17,20 +17,20 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD Student in Computer Science"
-  institution = "University of Washington"
-  year = 2012
+#[[education.courses]]
+#  course = "PhD Student in Computer Science"
+#  institution = "University of Washington"
+#  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+#[[education.courses]]
+#  course = "MEng in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2014
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2014
  
 +++
 
